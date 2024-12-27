@@ -1,5 +1,9 @@
 # YHack 2024 - Lecture-Agent
 
+## Video Demo
+
+[Watch the Video Demo](https://www.youtube.com/watch?v=9G3IMeVYQMo)
+
 ## What it is
 
 Lecture Agent takes those dreadful class slides that feel like quicksand to go through alone and builds your very own AI lecture presentation. It takes the uploaded slide notes and intelligently generates a fully narrated, professor-like presentation, breaking down even the most complex concepts into digestible explanations. This allows users to experience a seamless, interactive lecture experience.
